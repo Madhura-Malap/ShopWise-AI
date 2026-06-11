@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>AI Shopping Copilot</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}"
+    >
+
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+
+    <nav>
+
+        <div class="logo">
+            🛒 ShopWise AI
+        </div>
+
+
+    </nav>
+
+    <!-- HERO -->
+
+    <div class="hero">
+
+        <h1>ShopWise AI</h1>
+
+        <p>
+            Intelligent Product Recommendations Powered by AI
+        </p>
+
+    </div>
+
+
+    <!-- SEARCH -->
+
+    <form method="POST">
+
+        <input
+            type="text"
+            name="query"
+            value="{{ query }}"
+            placeholder="Need a gaming laptop under 70000"
+            required
+        >
+
+        <button type="submit">
+            Recommend
+        </button>
+
+    </form>
+
+    <!-- NO RESULTS -->
+
+    {% if no_results %}
+
+    <div class="no-results">
+
+        <h2>
+            ❌ No matching products found
+        </h2>
+
+        <p>
+            Try increasing your budget or changing filters.
+        </p>
+
+    </div>
+
+    {% endif %}
+
+    <!-- RESULTS -->
+
+    {% if recommendations %}
+
+    <div class="results">
+
+        {% for item in recommendations %}
+
+        <div class="card">
+
+            <img
+                src="{{ url_for('static', filename='images/' + item.image) }}"
+                class="product-image"
+                alt="Product Image"
+            >
+
+            <span class="badge">
+                {{ item.category }}
+            </span>
+
+            <h3>
+                {{ item.name }}
+            </h3>
+
+            <p class="brand">
+                {{ item.brand }}
+            </p>
+
+            <p class="price">
+                ₹{{ item.price }}
+            </p>
+
+            <p class="rating">
+                ⭐ {{ item.rating }}
+            </p>
+
+            <p class="match">
+                🔥 Match Score: {{ item.match }}%
+            </p>
+
+            <h4>
+                Key Features
+            </h4>
+
+            <ul>
+
+                <li>{{ item.feature1 }}</li>
+
+                <li>{{ item.feature2 }}</li>
+
+                <li>{{ item.feature3 }}</li>
+
+            </ul>
+
+            <h4>
+                Why Recommended?
+            </h4>
+
+            <ul>
+
+                {% for reason in item.reasons %}
+
+                <li>
+                    ✓ {{ reason }}
+                </li>
+
+                {% endfor %}
+
+            </ul>
+
+            <button class="buy-btn">
+                View Product
+            </button>
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+    {% endif %}
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <p>
+            ShopWise AI • Built with Python, Flask & NLP
+        </p>
+
+    </footer>
+
+</body>
+
+</html>

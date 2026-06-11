@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Brand,Price,Rating,Purpose,Feature1,Feature2,Feature3
+P001,Acer Laptop 1,Laptop,Acer,41236,4.5,Streaming,512GB SSD,16GB RAM,Intel i7
+P002,HP Laptop 2,Laptop,HP,91450,4.5,Photography,512GB SSD,16GB RAM,Ryzen 7
+P003,Dell Laptop 3,Laptop,Dell,96441,3.9,Professional,16GB RAM,Intel i7,Ryzen 7
+P004,Dell Laptop 4,Laptop,Dell,35276,4.4,Daily Use,Intel i7,512GB SSD,16GB RAM
+P005,ASUS Laptop 5,Laptop,ASUS,61587,4.8,Gaming,Intel i7,Ryzen 7,512GB SSD
+P006,Acer Laptop 6,Laptop,Acer,54751,4.5,Coding,Intel i7,16GB RAM,Ryzen 7
+P007,Lenovo Laptop 7,Laptop,Lenovo,72294,4.0,Photography,Ryzen 7,512GB SSD,Intel i7
+P008,HP Laptop 8,Laptop,HP,78486,3.9,Professional,Ryzen 7,16GB RAM,Intel i7
+P009,Acer Laptop 9,Laptop,Acer,90011,4.6,Daily Use,Ryzen 7,16GB RAM,Intel i7
+P010,Acer Laptop 10,Laptop,Acer,78621,4.8,Streaming,512GB SSD,Ryzen 7,Intel i7
+P011,Samsung Smartphone 1,Smartphone,Samsung,56526,4.5,Daily Use,120Hz Display,8GB RAM,6000mAh
+P012,OnePlus Smartphone 2,Smartphone,OnePlus,58697,4.0,Gaming,8GB RAM,50MP Camera,120Hz Display
+P013,Realme Smartphone 3,Smartphone,Realme,65837,4.5,Coding,50MP Camera,6000mAh,8GB RAM
+P014,iQOO Smartphone 4,Smartphone,iQOO,30217,4.4,Daily Use,120Hz Display,6000mAh,50MP Camera
+P015,Xiaomi Smartphone 5,Smartphone,Xiaomi,27594,4.2,Streaming,120Hz Display,6000mAh,8GB RAM
+P016,OnePlus Smartphone 6,Smartphone,OnePlus,38298,4.7,Student,8GB RAM,120Hz Display,50MP Camera
+P017,iQOO Smartphone 7,Smartphone,iQOO,12905,4.9,Work,50MP Camera,120Hz Display,8GB RAM
+P018,OnePlus Smartphone 8,Smartphone,OnePlus,40234,4.7,Music,8GB RAM,6000mAh,120Hz Display
+P019,OnePlus Smartphone 9,Smartphone,OnePlus,27232,4.9,Office,50MP Camera,8GB RAM,120Hz Display
+P020,Xiaomi Smartphone 10,Smartphone,Xiaomi,18756,4.8,Professional,120Hz Display,8GB RAM,50MP Camera
+P021,Lenovo Tablet 1,Tablet,Lenovo,20445,4.8,Gaming,128GB Storage,10-inch Display,Stylus Support
+P022,Samsung Tablet 2,Tablet,Samsung,48160,4.4,Music,128GB Storage,10-inch Display,Stylus Support
+P023,Lenovo Tablet 3,Tablet,Lenovo,48991,4.3,Daily Use,10-inch Display,128GB Storage,Stylus Support
+P024,Samsung Tablet 4,Tablet,Samsung,40029,4.2,Streaming,10-inch Display,128GB Storage,Stylus Support
+P025,Apple Tablet 5,Tablet,Apple,56882,4.2,Student,Stylus Support,10-inch Display,128GB Storage
+P026,Samsung Tablet 6,Tablet,Samsung,59867,4.2,Photography,10-inch Display,Stylus Support,128GB Storage
+P027,Lenovo Tablet 7,Tablet,Lenovo,46404,4.9,Streaming,10-inch Display,128GB Storage,Stylus Support
+P028,Lenovo Tablet 8,Tablet,Lenovo,42896,4.8,Photography,Stylus Support,10-inch Display,128GB Storage
+P029,Samsung Tablet 9,Tablet,Samsung,53044,4.6,Streaming,10-inch Display,Stylus Support,128GB Storage
+P030,Lenovo Tablet 10,Tablet,Lenovo,40467,4.8,Office,128GB Storage,Stylus Support,10-inch Display
+P031,Apple Smartwatch 1,Smartwatch,Apple,10415,4.4,Music,Heart Rate Monitor,AMOLED Display,GPS
+P032,Samsung Smartwatch 2,Smartwatch,Samsung,20269,3.9,Work,Heart Rate Monitor,GPS,AMOLED Display
+P033,Apple Smartwatch 3,Smartwatch,Apple,5896,4.1,Student,Heart Rate Monitor,AMOLED Display,GPS
+P034,Samsung Smartwatch 4,Smartwatch,Samsung,16511,3.9,Professional,Heart Rate Monitor,GPS,AMOLED Display
+P035,Samsung Smartwatch 5,Smartwatch,Samsung,27327,4.9,Gaming,Heart Rate Monitor,AMOLED Display,GPS
+P036,Apple Smartwatch 6,Smartwatch,Apple,21346,4.6,Student,Heart Rate Monitor,GPS,AMOLED Display
+P037,Samsung Smartwatch 7,Smartwatch,Samsung,13804,3.8,Music,GPS,AMOLED Display,Heart Rate Monitor
+P038,Noise Smartwatch 8,Smartwatch,Noise,19748,4.5,Music,Heart Rate Monitor,AMOLED Display,GPS
+P039,Apple Smartwatch 9,Smartwatch,Apple,17375,4.8,Student,AMOLED Display,Heart Rate Monitor,GPS
+P040,Apple Smartwatch 10,Smartwatch,Apple,9452,3.9,Daily Use,AMOLED Display,GPS,Heart Rate Monitor
+P041,Boat Headphones 1,Headphones,Boat,10575,3.9,Daily Use,Noise Cancellation,40hr Battery,Bluetooth 5.2
+P042,JBL Headphones 2,Headphones,JBL,11587,4.7,Professional,Noise Cancellation,40hr Battery,Bluetooth 5.2
+P043,JBL Headphones 3,Headphones,JBL,14754,3.9,Daily Use,Noise Cancellation,40hr Battery,Bluetooth 5.2
+P044,Sony Headphones 4,Headphones,Sony,8199,4.9,Professional,40hr Battery,Noise Cancellation,Bluetooth 5.2
+P045,Sony Headphones 5,Headphones,Sony,5759,4.5,Photography,Noise Cancellation,Bluetooth 5.2,40hr Battery
+P046,Boat Headphones 6,Headphones,Boat,1397,4.0,Student,Bluetooth 5.2,40hr Battery,Noise Cancellation
+P047,Sony Headphones 7,Headphones,Sony,9966,4.2,Streaming,40hr Battery,Bluetooth 5.2,Noise Cancellation
+P048,JBL Headphones 8,Headphones,JBL,4156,4.2,Student,Noise Cancellation,40hr Battery,Bluetooth 5.2
+P049,Boat Headphones 9,Headphones,Boat,10462,4.7,Professional,40hr Battery,Bluetooth 5.2,Noise Cancellation
+P050,Sony Headphones 10,Headphones,Sony,14673,4.6,Coding,Bluetooth 5.2,40hr Battery,Noise Cancellation
+P051,Boat Earbuds 1,Earbuds,Boat,6002,4.0,Photography,ANC,Fast Charging,Touch Controls
+P052,Sony Earbuds 2,Earbuds,Sony,10889,4.8,Coding,ANC,Fast Charging,Touch Controls
+P053,Noise Earbuds 3,Earbuds,Noise,10800,4.5,Professional,ANC,Touch Controls,Fast Charging
+P054,Sony Earbuds 4,Earbuds,Sony,5827,4.6,Music,ANC,Fast Charging,Touch Controls
+P055,Noise Earbuds 5,Earbuds,Noise,7364,4.2,Work,ANC,Fast Charging,Touch Controls
+P056,Boat Earbuds 6,Earbuds,Boat,1291,4.2,Office,ANC,Fast Charging,Touch Controls
+P057,Boat Earbuds 7,Earbuds,Boat,10419,3.9,Daily Use,ANC,Touch Controls,Fast Charging
+P058,Sony Earbuds 8,Earbuds,Sony,4371,3.8,Music,Fast Charging,ANC,Touch Controls
+P059,Sony Earbuds 9,Earbuds,Sony,9464,4.4,Gaming,Touch Controls,ANC,Fast Charging
+P060,Noise Earbuds 10,Earbuds,Noise,3629,4.3,Photography,Fast Charging,Touch Controls,ANC
+P061,LG Monitor 1,Monitor,LG,24786,4.1,Gaming,144Hz,IPS Panel,2K Resolution
+P062,BenQ Monitor 2,Monitor,BenQ,24552,4.7,Office,2K Resolution,144Hz,IPS Panel
+P063,BenQ Monitor 3,Monitor,BenQ,35222,4.6,Music,IPS Panel,2K Resolution,144Hz
+P064,BenQ Monitor 4,Monitor,BenQ,21104,4.0,Work,IPS Panel,144Hz,2K Resolution
+P065,BenQ Monitor 5,Monitor,BenQ,36573,4.4,Coding,144Hz,2K Resolution,IPS Panel
+P066,Dell Monitor 6,Monitor,Dell,31563,4.1,Photography,IPS Panel,144Hz,2K Resolution
+P067,Dell Monitor 7,Monitor,Dell,32609,4.1,Gaming,144Hz,IPS Panel,2K Resolution
+P068,LG Monitor 8,Monitor,LG,15079,4.5,Gaming,144Hz,IPS Panel,2K Resolution
+P069,BenQ Monitor 9,Monitor,BenQ,29620,4.2,Student,2K Resolution,144Hz,IPS Panel
+P070,BenQ Monitor 10,Monitor,BenQ,28363,4.7,Work,IPS Panel,144Hz,2K Resolution
+P071,HP Keyboard 1,Keyboard,HP,5785,4.7,Music,RGB Lighting,Mechanical Keys,Wireless
+P072,HP Keyboard 2,Keyboard,HP,2031,4.6,Office,RGB Lighting,Wireless,Mechanical Keys
+P073,Dell Keyboard 3,Keyboard,Dell,5510,4.5,Streaming,Wireless,Mechanical Keys,RGB Lighting
+P074,HP Keyboard 4,Keyboard,HP,923,3.8,Student,Mechanical Keys,Wireless,RGB Lighting
+P075,Dell Keyboard 5,Keyboard,Dell,6646,4.3,Work,Wireless,Mechanical Keys,RGB Lighting
+P076,Dell Keyboard 6,Keyboard,Dell,5331,4.8,Music,Mechanical Keys,Wireless,RGB Lighting
+P077,Logitech Keyboard 7,Keyboard,Logitech,2784,4.8,Streaming,Mechanical Keys,Wireless,RGB Lighting
+P078,Logitech Keyboard 8,Keyboard,Logitech,2654,4.6,Office,Wireless,Mechanical Keys,RGB Lighting
+P079,Logitech Keyboard 9,Keyboard,Logitech,5753,4.3,Coding,Wireless,RGB Lighting,Mechanical Keys
+P080,Logitech Keyboard 10,Keyboard,Logitech,2460,4.0,Daily Use,Wireless,RGB Lighting,Mechanical Keys
+P081,HP Mouse 1,Mouse,HP,4601,4.4,Student,16000 DPI,RGB,Wireless
+P082,HP Mouse 2,Mouse,HP,2610,4.9,Office,RGB,Wireless,16000 DPI
+P083,HP Mouse 3,Mouse,HP,635,4.0,Photography,16000 DPI,RGB,Wireless
+P084,Logitech Mouse 4,Mouse,Logitech,4694,4.7,Work,Wireless,16000 DPI,RGB
+P085,Dell Mouse 5,Mouse,Dell,4050,4.1,Daily Use,Wireless,16000 DPI,RGB
+P086,Dell Mouse 6,Mouse,Dell,3482,4.0,Office,RGB,16000 DPI,Wireless
+P087,HP Mouse 7,Mouse,HP,4269,4.6,Gaming,RGB,16000 DPI,Wireless
+P088,HP Mouse 8,Mouse,HP,3432,4.5,Work,16000 DPI,RGB,Wireless
+P089,Logitech Mouse 9,Mouse,Logitech,1461,4.0,Office,RGB,Wireless,16000 DPI
+P090,Dell Mouse 10,Mouse,Dell,522,4.4,Daily Use,RGB,16000 DPI,Wireless
+P091,Canon Camera 1,Camera,Canon,59803,4.4,Coding,24MP Sensor,Mirrorless,4K Video
+P092,Sony Camera 2,Camera,Sony,145393,4.0,Office,4K Video,Mirrorless,24MP Sensor
+P093,Sony Camera 3,Camera,Sony,57760,4.9,Professional,Mirrorless,4K Video,24MP Sensor
+P094,Sony Camera 4,Camera,Sony,108964,4.2,Coding,4K Video,Mirrorless,24MP Sensor
+P095,Sony Camera 5,Camera,Sony,67535,4.6,Coding,24MP Sensor,Mirrorless,4K Video
+P096,Sony Camera 6,Camera,Sony,71812,4.9,Office,4K Video,24MP Sensor,Mirrorless
+P097,Canon Camera 7,Camera,Canon,127261,4.8,Student,4K Video,24MP Sensor,Mirrorless
+P098,Nikon Camera 8,Camera,Nikon,91077,4.1,Streaming,4K Video,Mirrorless,24MP Sensor
+P099,Nikon Camera 9,Camera,Nikon,48207,4.4,Streaming,24MP Sensor,Mirrorless,4K Video
+P100,Sony Camera 10,Camera,Sony,50418,4.8,Gaming,Mirrorless,24MP Sensor,4K Video
+P101,WD SSD 1,SSD,WD,3359,4.1,Daily Use,1TB Storage,NVMe,High Speed
+P102,SanDisk SSD 2,SSD,SanDisk,5738,3.9,Music,NVMe,1TB Storage,High Speed
+P103,SanDisk SSD 3,SSD,SanDisk,14164,4.2,Coding,NVMe,High Speed,1TB Storage
+P104,WD SSD 4,SSD,WD,3825,4.5,Gaming,1TB Storage,NVMe,High Speed
+P105,SanDisk SSD 5,SSD,SanDisk,11463,4.6,Office,High Speed,NVMe,1TB Storage
+P106,WD SSD 6,SSD,WD,12844,4.4,Streaming,NVMe,1TB Storage,High Speed
+P107,WD SSD 7,SSD,WD,13076,4.1,Office,1TB Storage,High Speed,NVMe
+P108,Crucial SSD 8,SSD,Crucial,9280,4.1,Office,NVMe,1TB Storage,High Speed
+P109,SanDisk SSD 9,SSD,SanDisk,6376,4.6,Student,NVMe,High Speed,1TB Storage
+P110,SanDisk SSD 10,SSD,SanDisk,2075,4.0,Gaming,High Speed,1TB Storage,NVMe
+P111,Epson Printer 1,Printer,Epson,21050,4.4,Professional,Color Print,Wireless Printing,Duplex
+P112,HP Printer 2,Printer,HP,24828,4.4,Student,Color Print,Wireless Printing,Duplex
+P113,Canon Printer 3,Printer,Canon,22160,4.4,Work,Color Print,Wireless Printing,Duplex
+P114,Epson Printer 4,Printer,Epson,27386,4.4,Photography,Color Print,Duplex,Wireless Printing
+P115,Canon Printer 5,Printer,Canon,17613,4.3,Music,Duplex,Color Print,Wireless Printing
+P116,Epson Printer 6,Printer,Epson,6682,4.1,Student,Wireless Printing,Duplex,Color Print
+P117,Canon Printer 7,Printer,Canon,24827,3.9,Photography,Wireless Printing,Color Print,Duplex
+P118,HP Printer 8,Printer,HP,26491,4.5,Music,Duplex,Color Print,Wireless Printing
+P119,Epson Printer 9,Printer,Epson,14533,4.2,Office,Duplex,Color Print,Wireless Printing
+P120,Canon Printer 10,Printer,Canon,6082,3.9,Photography,Wireless Printing,Color Print,Duplex
+P121,Boat Speaker 1,Speaker,Boat,10418,4.5,Student,Bluetooth,Deep Bass,Portable
+P122,Sony Speaker 2,Speaker,Sony,15547,4.2,Student,Portable,Bluetooth,Deep Bass
+P123,Sony Speaker 3,Speaker,Sony,19361,4.5,Office,Deep Bass,Bluetooth,Portable
+P124,JBL Speaker 4,Speaker,JBL,11502,3.9,Music,Deep Bass,Bluetooth,Portable
+P125,Boat Speaker 5,Speaker,Boat,18601,4.2,Photography,Deep Bass,Bluetooth,Portable
+P126,Sony Speaker 6,Speaker,Sony,21570,4.0,Photography,Deep Bass,Bluetooth,Portable
+P127,JBL Speaker 7,Speaker,JBL,18577,4.8,Work,Deep Bass,Bluetooth,Portable
+P128,Sony Speaker 8,Speaker,Sony,14448,4.7,Student,Deep Bass,Bluetooth,Portable
+P129,Boat Speaker 9,Speaker,Boat,2019,3.8,Work,Deep Bass,Bluetooth,Portable
+P130,Sony Speaker 10,Speaker,Sony,8298,4.0,Photography,Portable,Bluetooth,Deep Bass
+P131,Mi Power Bank 1,Power Bank,Mi,1275,4.3,Student,Fast Charging,20000mAh,USB-C
+P132,Mi Power Bank 2,Power Bank,Mi,2514,4.8,Work,20000mAh,USB-C,Fast Charging
+P133,Mi Power Bank 3,Power Bank,Mi,2605,4.7,Gaming,USB-C,Fast Charging,20000mAh
+P134,Realme Power Bank 4,Power Bank,Realme,3087,4.8,Professional,USB-C,20000mAh,Fast Charging
+P135,Mi Power Bank 5,Power Bank,Mi,2427,4.6,Work,20000mAh,USB-C,Fast Charging
+P136,Mi Power Bank 6,Power Bank,Mi,4435,3.8,Photography,20000mAh,USB-C,Fast Charging
+P137,Mi Power Bank 7,Power Bank,Mi,4689,4.8,Student,USB-C,Fast Charging,20000mAh
+P138,Mi Power Bank 8,Power Bank,Mi,4168,4.7,Gaming,Fast Charging,20000mAh,USB-C
+P139,Realme Power Bank 9,Power Bank,Realme,568,4.0,Music,20000mAh,Fast Charging,USB-C
+P140,Realme Power Bank 10,Power Bank,Realme,2131,4.1,Streaming,Fast Charging,20000mAh,USB-C
+P141,Netgear Router 1,Router,Netgear,8671,4.3,Music,Dual Band,High Speed,WiFi 6
+P142,TP-Link Router 2,Router,TP-Link,3120,4.6,Office,High Speed,Dual Band,WiFi 6
+P143,Netgear Router 3,Router,Netgear,4150,4.4,Student,Dual Band,High Speed,WiFi 6
+P144,Netgear Router 4,Router,Netgear,2908,4.1,Coding,WiFi 6,High Speed,Dual Band
+P145,TP-Link Router 5,Router,TP-Link,4487,4.1,Photography,Dual Band,High Speed,WiFi 6
+P146,TP-Link Router 6,Router,TP-Link,2361,4.8,Work,Dual Band,WiFi 6,High Speed
+P147,Netgear Router 7,Router,Netgear,9025,4.8,Student,High Speed,Dual Band,WiFi 6
+P148,D-Link Router 8,Router,D-Link,4460,4.5,Music,Dual Band,WiFi 6,High Speed
+P149,TP-Link Router 9,Router,TP-Link,8381,4.2,Student,High Speed,WiFi 6,Dual Band
+P150,TP-Link Router 10,Router,TP-Link,3085,4.8,Office,WiFi 6,High Speed,Dual Band
