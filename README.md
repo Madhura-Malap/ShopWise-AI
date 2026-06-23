@@ -54,11 +54,11 @@ Instead of manually browsing hundreds of products, users can simply describe wha
 
 ### Home Page
 
-![Home Page](home-demo.png)
+![Home Page](homepage.jpeg)
 
 ### AI Recommendations
 
-![Recommendations](recommendation-demo.png)
+![Recommendations](ai_recommendation.jpeg)
 
 ---
 
