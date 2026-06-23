@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="[YOUR_LIVE_LINK_HERE](https://shopwise-ai-7eyk.onrender.com)">Live Demo</a>
+  <a href="https://shopwise-ai-7eyk.onrender.com">🚀 Live Demo</a>
 </p>
 
 ---
