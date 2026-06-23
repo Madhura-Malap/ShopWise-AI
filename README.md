@@ -1,33 +1,123 @@
-# 🛒 ShopWise AI
+<p align="center">
+  <h1 align="center">🛒 ShopWise AI</h1>
+</p>
 
-An intelligent shopping assistant that recommends the most suitable products based on user requirementS.
+<p align="center">
+  <b>Your Intelligent Shopping Copilot for Smarter Purchase Decisions.</b>
+</p>
 
-The application understands user requirements such as budget, category, brand, and purpose, then recommends the most suitable products with a match score and detailed explanations.
+<p align="center">
+  Flask • Python • Recommendation Engine • NLP-Based Query Understanding
+</p>
 
----
-
-## 🚀 Features
-
-* - Natural Language Query Processing
-* Budget-aware recommendations
-* Category detection
-* Brand detection
-* Purpose-based filtering
-* Intelligent Product Ranking and Match Scoring
-* Product image integration
-* Interactive web interface using Flask
-* Dynamic recommendation cards
-* Responsive user interface
+<p align="center">
+  🔗 <a href="[YOUR_LIVE_LINK_HERE](https://shopwise-ai-7eyk.onrender.com)">Live Demo</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Overview
 
-* Python
-* Flask
-* Pandas
-* HTML
-* CSS
+ShopWise AI is an intelligent shopping recommendation system that helps users discover the most suitable products based on their requirements.
+
+The application understands natural language queries such as budget, category, brand preferences, and intended purpose, then recommends the most relevant products using a custom recommendation engine and match scoring system.
+
+Instead of manually browsing hundreds of products, users can simply describe what they need and receive personalized recommendations instantly.
+
+---
+
+## ✨ Key Features
+
+✅ Natural Language Query Processing
+
+✅ Budget-Aware Product Recommendations
+
+✅ Category Detection
+
+✅ Brand Recognition
+
+✅ Purpose-Based Filtering
+
+✅ Intelligent Match Scoring
+
+✅ Product Ranking System
+
+✅ Product Image Integration
+
+✅ Interactive Flask Web Application
+
+✅ Responsive User Interface
+
+---
+
+## 📸 Product Demo
+
+### Home Page
+
+![Home Page](home-demo.png)
+
+### AI Recommendations
+
+![Recommendations](recommendation-demo.png)
+
+---
+
+## 🧠 Recommendation Engine Workflow
+
+```text
+User Requirement
+        │
+        ▼
+Query Understanding
+        │
+        ▼
+Budget Extraction
+Category Detection
+Brand Detection
+Purpose Detection
+        │
+        ▼
+Product Filtering
+        │
+        ▼
+Match Score Calculation
+        │
+        ▼
+Top Recommendations
+```
+
+---
+
+## 💬 Example Queries
+
+```text
+Need a gaming laptop under 70000
+```
+
+```text
+Need a phone under 25000
+```
+
+```text
+Need earbuds under 5000
+```
+
+```text
+Need a camera for photography under 80000
+```
+
+---
+
+## 🛠️ Technology Stack
+
+| Technology  | Purpose                |
+| ----------- | ---------------------- |
+| Python      | Backend Logic          |
+| Flask       | Web Framework          |
+| Pandas      | Data Processing        |
+| HTML        | Frontend Structure     |
+| CSS         | User Interface Styling |
+| CSV Dataset | Product Knowledge Base |
 
 ---
 
@@ -58,8 +148,7 @@ ShopWise-AI
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
-cd ShopWise-AI
+git clone https://github.com/Madhura-Malap/YOUR_REPOSITORY_NAME.git
 ```
 
 ### Install Dependencies
@@ -80,53 +169,48 @@ Open:
 http://127.0.0.1:5000
 ```
 
-in your browser.
+---
+
+## 🎯 Real-World Applications
+
+* E-commerce Product Discovery
+* Shopping Assistants
+* Product Recommendation Systems
+* Customer Decision Support Tools
+* Personalized Shopping Platforms
 
 ---
 
-## 🔍 Example Queries
+## 🚀 Future Roadmap
 
-* Need a gaming laptop under 70000
-* Need a phone under 25000
-* Need earbuds under 5000
-* Need a camera for photography under 80000
-
----
-
-## 🎯 How It Works
-
-1. User enters a product requirement.
-2. NLP logic extracts:
-
-   * Budget
-   * Category
-   * Brand
-   * Purpose
-3. Products are filtered from the dataset.
-4. A match score is calculated.
-5. Top recommendations are displayed with:
-
-   * Product Image
-   * Price
-   * Rating
-   * Features
-   * Recommendation Reasons
-
----
-
-## 🔮 Future Improvements
-
-* Real e-commerce product integration
-* Machine Learning-based recommendation models
-* User accounts and saved searches
-* Product comparison feature
-* Amazon API integration
-* Deployment on cloud platforms
-* User preference learning
+* Real-time product data integration
 * Personalized recommendations
+* Product comparison engine
+* Machine Learning ranking models
+* User behavior tracking
+* Wishlist functionality
+* Cloud deployment
+* E-commerce API integration
 
 ---
 
-## 👨‍💻 Author
+## 💡 Learning Outcomes
 
-Developed to explore recommendation systems, natural language processing, and full-stack application development using Python and Flask.
+Through this project, I gained practical experience in:
+
+* Recommendation Systems
+* Query Processing
+* Product Ranking Algorithms
+* Flask Web Development
+* Dataset Handling with Pandas
+* Frontend and Backend Integration
+* User-Centric Product Design
+
+---
+
+## 👩‍💻 Author
+
+### Madhura Malap
+
+Computer Science Engineering Student | Aspiring AI/ML Engineer
+eveloped to explore recommendation systems, natural language processing, and full-stack application development using Python and Flask.
